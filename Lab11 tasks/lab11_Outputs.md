@@ -2,7 +2,10 @@
 ### Instructor. Sir Talha Sahid
 ------------------------------------------------------------------------------
 
-https://github.com/maryamimambux/OOP-Lab-Tasks-spring-2025/blob/main/Lab11%20tasks/lab11_Tasks.pdf
+
+
+[Click to View PDF](https://github.com/maryamimambux/OOP-Lab-Tasks-spring-2025/blob/main/Lab11%20tasks/lab11_Tasks.pdf)
+
 [lab11_Tasks.pdf](https://github.com/user-attachments/files/20140430/lab11_Tasks.pdf)
 
 ------------------------------------------------------------------------------
