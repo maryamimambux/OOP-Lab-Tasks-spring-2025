@@ -1,4 +1,0 @@
-This is a test line with target data.
-Another line with the start of something interesting.
-A line without the target keyword.
-start here and more data follows.
