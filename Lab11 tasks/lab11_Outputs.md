@@ -1,5 +1,10 @@
 # OOP-Lab11-Tasks-Output-spring-2025
 ### Instructor. Sir Talha Sahid
+------------------------------------------------------------------------------
+
+[lab11_Tasks.pdf](https://github.com/user-attachments/files/20140430/lab11_Tasks.pdf)
+
+------------------------------------------------------------------------------
 
 #### Task 01
 
