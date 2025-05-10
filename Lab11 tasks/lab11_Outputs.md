@@ -2,7 +2,7 @@
 ### Instructor. Sir Talha Sahid
 ------------------------------------------------------------------------------
 
-[lab11_Tasks.pdf](https://github.com/user-attachments/files/20140430/lab11_Tasks.pdf)
+[View PDF][lab11_Tasks.pdf](https://github.com/user-attachments/files/20140430/lab11_Tasks.pdf)
 
 ------------------------------------------------------------------------------
 
