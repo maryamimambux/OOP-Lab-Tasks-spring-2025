@@ -32,7 +32,9 @@
 # OOP-Lab11-Tasks-spring-2025
 
 ![image](https://github.com/user-attachments/assets/9fb3c285-deac-4e66-a313-dafa02439302)
+
 ![image](https://github.com/user-attachments/assets/300008fd-6cc0-46f1-9b7a-74c84b42ed0c)
+
 ![image](https://github.com/user-attachments/assets/0ffb9102-dc6a-4bf3-a8df-0006c8db0ce7)
 
 
